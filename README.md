@@ -28,8 +28,8 @@ Random Forest, Ada Boost, Linear Regression and LSTM
 ![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/e0a5579f-a191-4fc2-b345-31eb94721dca)
 
 # Authors
-Balachander Sathianarayanan
+### Balachander Sathianarayanan
 
-Swasthi P Rao
+### Swasthi P Rao
 
-Vethavikashini Chithrra Raghuram
+### Vethavikashini Chithrra Raghuram
