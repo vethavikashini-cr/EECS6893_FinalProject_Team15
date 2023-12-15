@@ -21,7 +21,9 @@ Extract the stock price and volumes since  2021 01-01, i.e 3 years approx by sel
 Used the Technical Analysis Package to add more indicators and performed PCA
 
 ## Models Used-
-Random Forest, Ada Boost, Linear Regression and LSTM
+
+![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/8b87ed33-9c60-45d3-8efa-1087c64cf4e8)
+
 
 ## System Overview:
 
