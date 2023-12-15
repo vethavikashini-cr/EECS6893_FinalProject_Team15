@@ -16,7 +16,11 @@ Data is fetched using 25 API calls company-wise for each day by filtering out an
 
 <img width="458" alt="image" src="https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/49d23bf3-6871-4e7f-a830-6a1fb5ec717c">
 
+### Word Cloud Visualizations
 ![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/aa33e173-069f-4f6d-8555-6bc16d5b8cdd)
+![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/eb7c3032-bbbd-429d-b9c5-7371cdda6ed4)
+![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/0e1ac82a-472f-4fd6-9c7a-e0d95200f459)
+
 
 
 ### Stock Data
