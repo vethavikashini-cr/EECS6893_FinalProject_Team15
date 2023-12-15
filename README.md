@@ -29,5 +29,7 @@ Random Forest, Ada Boost, Linear Regression and LSTM
 
 # Authors
 Balachander Sathianarayanan
+
 Swasthi P Rao
+
 Vethavikashini Chithrra Raghuram
