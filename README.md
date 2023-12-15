@@ -10,7 +10,8 @@ Data-
 Twitter Data: Twscrape: An open-source library that scrapes relevant tweets according to company.
 Data is fetched using 25 API calls company-wise for each day by filtering out any links, media, and replies. 
 
-Preprocessing pipeline:
+Preprocessing pipeline-
+
 <img width="462" alt="image" src="https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/da248fcf-993a-4bac-a777-fa94f53f5c58">
 
 
