@@ -7,7 +7,9 @@ To see the nature of deep learning models used in short-term and long-term cases
 Comparatively analyzing their accuracies to glean an understanding of their performance
 
 ## Data
-### Twitter Data: Twscrape: An open-source library that scrapes relevant tweets according to company.
+### Twitter Data
+
+Twscrape: An open-source library that scrapes relevant tweets according to company.
 Data is fetched using 25 API calls company-wise for each day by filtering out any links, media, and replies. 
 
 ### Preprocessing pipeline
