@@ -35,7 +35,8 @@ Used the Technical Analysis Package to add more indicators and performed PCA
 
 ## System Overview
 
-![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/e0a5579f-a191-4fc2-b345-31eb94721dca)
+![image](https://github.com/vethavikashini-cr/EECS6893_FinalProject_Team15/assets/145593646/57d7a58c-f0b3-45f9-b6e7-bad625fb7352)
+
 
 # Authors
 ### Balachander Sathianarayanan - bs3507@columbia.edu
