@@ -8,7 +8,6 @@ Comparatively analyzing their accuracies to glean an understanding of their perf
 
 ## Data
 ### Twitter Data
-
 Twscrape: An open-source library that scrapes relevant tweets according to company.
 Data is fetched using 25 API calls company-wise for each day by filtering out any links, media, and replies. 
 
